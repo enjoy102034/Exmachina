@@ -1,0 +1,49 @@
+body {
+	background-color:#ddd;
+	font-family: century gothic;
+	margin: 40px 80px;
+}
+
+h1, h2 {
+	font-weight: normal;
+}
+
+.row {
+	width: 80%;
+	margin:auto;
+	border:3px double #cb9a93;
+	padding: 30px;
+}
+
+.row1 {
+	display:flex;
+	justify-content: flex-end;
+}
+
+.row2 {
+	display:flex;
+	justify-content: space-between;
+}
+
+.row3 {
+	display:flex;
+	justify-content: space-around;
+}
+
+.box {
+	width: 160px;
+	height: 160px;
+}
+
+.box1 {
+	background-color: #94092b;
+}
+
+.box2 {
+	background-color: #61b86a;
+}
+
+
+.box3 {
+	background-color: #871cca;
+}
