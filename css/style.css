@@ -1,0 +1,38 @@
+
+h3 {
+	font-size:1.4rem;
+}
+
+p {
+	font-size:0.9rem;
+	line-height: 1.5rem;
+}
+
+header {
+	line-height: 80px;
+}
+
+
+.banner {
+	background: url('images/aaa.jpg') left center no-repeat;
+	height:500px;
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+.more .item div {
+	height:150px;
+}
+
+.more .item div img {
+	width:40%;
+}
+
+.recimg {
+	width:75px;
+	height:75px;
+}
+
+.recimg img {
+	height:120px;
+}
